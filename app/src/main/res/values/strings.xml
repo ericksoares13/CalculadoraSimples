@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CalculadoraSimples</string>
+    <string name="value1_text">Valor 1:</string>
+    <string name="value2_text">Valor 2:</string>
+    <string name="hint_value_text">Digite um número...</string>
+    <string name="add_text">+</string>
+    <string name="min_text">-</string>
+    <string name="mul_text">*</string>
+    <string name="div_text">/</string>
+    <string name="result_text">O resultado é: %s</string>
+    <string name="result_invalid">Não é possível dividir por zero.</string>
+</resources>
